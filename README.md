@@ -1,0 +1,2 @@
+# SimpleVoting
+Basit oylama
